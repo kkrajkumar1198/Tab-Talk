@@ -1,4 +1,4 @@
-# AI-Based Collaborative Tab Orchestra
+# Tab Talk
 
 A Chrome extension for intelligent collaborative tab sharing with AI-powered clustering and orchestration.
 
